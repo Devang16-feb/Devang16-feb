@@ -1,4 +1,3 @@
-# 💫 About Me:
 👋 Hi, I'm Devang Bhalerao!<br>🎓 Electronics and Telecommunication Engineering student at JSPM's Rajarshi Shahu College of Engineering.<br>📚 Always learning and striving to innovate!<br>🎯 Contribute to open-source projects that create real-world impact.<br>
 
 
